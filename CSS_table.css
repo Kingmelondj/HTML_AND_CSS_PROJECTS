@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<Meta Charset="utf-8">
+<body>
+table {
+	border: 1px solid silver;
+}
+td:hover {
+	background-color: Yellow;
+	color: black;
+}
+tr, td {
+	background-color: darkgreen;
+	color: white;
+}
+</html>

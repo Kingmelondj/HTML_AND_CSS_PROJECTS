@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+p {
+	color: snow;
+	background: black;
+	font-style: bold;
+	text-align: center;
+}
+</head>
+
+<style>
+h2 {
+  text-shadow: 2px 2px 5x blue;
+}
+</style>
+</head>
+<h2> Delon </h2>
+
+</body>
+</html>

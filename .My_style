@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<style>
+	.My_style {
+	  background-color: black;
+	  color: red;
+	  text-decoration: underline;
+	  font-weight: bold;
+	  font-size: large;
+	}
+</style>
+</html>
